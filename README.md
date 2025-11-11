@@ -5,12 +5,8 @@ Ce dépôt contient l'ensemble des livrables réalisés dans le cadre du **proje
 Ce projet a pour but de démontrer ma capacité à **structurer, piloter et valoriser un projet Data Analyst**, de la phase de cadrage jusqu’à la création de livrables Power BI et d’une documentation complète.
 
 ## Livrables
-- 🧠 [Analyse du besoin métier]([./Analyse_du_besoin_metier_Aeroworld.pdf](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Analyse_du_besoin_metier_Aeroworld_Racha_Hamraline.pdf
-)<img width="743" height="68" alt="image" src="https://github.com/user-attachments/assets/726d3873-e2a9-4a30-b73d-b7611f02a25b" />
-)
-- 📄 [Cahier des charges fonctionnel]([./Aeroworld_Cahier_des_charges_Raouane.pdf](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/A%C3%A9roworld_Cahier%20des%20charges_Racha%20Hamraline.pdf
-)<img width="733" height="68" alt="image" src="https://github.com/user-attachments/assets/517c727a-e984-4e89-9842-28d1c83ca982" />
-)
+- 🧠 [Analyse du besoin métier](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Analyse_du_besoin_metier_Aeroworld_Racha_Hamraline.pdf)
+- 📄 [Cahier des charges fonctionnel]([https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/A%C3%A9roworld_Cahier%20des%20charges_Racha%20Hamraline.pdf])
 - 🗓️ [Diagramme de Gantt]([./Diagramme_de_Gantt_PowerBi.pdf](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Diagramme%20de%20Gantt%20PowerBi.pdf
 )<img width="733" height="68" alt="image" src="https://github.com/user-attachments/assets/82f30eb7-d680-4e83-85d0-ee024177246c" />
 )
