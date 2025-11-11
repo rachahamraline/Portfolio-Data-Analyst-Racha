@@ -1,1 +1,1 @@
-# Portfolio - Racha : Business Inelligence Analyst
+# Portfolio - Racha : Business Intelligence Analyst
