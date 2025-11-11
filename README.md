@@ -6,12 +6,9 @@ Ce projet a pour but de démontrer ma capacité à **structurer, piloter et valo
 
 ## Livrables
 - 🧠 [Analyse du besoin métier](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Analyse_du_besoin_metier_Aeroworld_Racha_Hamraline.pdf)
-- 📄 [Cahier des charges fonctionnel]([https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/A%C3%A9roworld_Cahier%20des%20charges_Racha%20Hamraline.pdf])
-- 🗓️ [Diagramme de Gantt]([./Diagramme_de_Gantt_PowerBi.pdf](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Diagramme%20de%20Gantt%20PowerBi.pdf
-)<img width="733" height="68" alt="image" src="https://github.com/user-attachments/assets/82f30eb7-d680-4e83-85d0-ee024177246c" />
-)
-- 📘 [Guide Power BI]([./Guide_de_creation_de_graphiques_PowerBi.pdf](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Guide%20de%20cr%C3%A9ation%20de%20graphiques%20sur%20PowerBi.pdf)<img width="733" height="68" alt="image" src="https://github.com/user-attachments/assets/24d6e6b5-cbf5-4397-9594-da0ad757064d" />
-)
+- 📄 [Cahier des charges fonctionnel](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/A%C3%A9roworld_Cahier%20des%20charges_Racha%20Hamraline.pdf)
+- 🗓️ [Diagramme de Gantt](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Diagramme%20de%20Gantt%20PowerBi.pdf)
+- 📘 [Guide Power BI](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Guide%20de%20cr%C3%A9ation%20de%20graphiques%20sur%20PowerBi.pdf)
 - 📊 Tableau de bord – *Veille métier* *(à venir)*
 - 📈 Tableau de bord – *Profil portfolio* *(à venir)*
 - 🎥 Vidéo de formation *(à venir – lien Loom)*
