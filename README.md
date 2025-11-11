@@ -1,1 +1,24 @@
-# Portfolio - Racha : Business Intelligence Analyst
+# Portfolio - Racha : Business Intelligence Analys
+Ce dépôt contient l'ensemble des livrables réalisés dans le cadre du **projet Aéroworld**, pour le client **Data ESN**.
+
+## Objectif du projet
+Ce projet a pour but de démontrer ma capacité à **structurer, piloter et valoriser un projet Data Analyst**, de la phase de cadrage jusqu’à la création de livrables Power BI et d’une documentation complète.
+
+## Livrables
+- 🧠 [Analyse du besoin métier](./Analyse_du_besoin_metier_Aeroworld.pdf)
+- 📄 [Cahier des charges fonctionnel](./Aeroworld_Cahier_des_charges_Raouane.pdf)
+- 🗓️ [Diagramme de Gantt](./Diagramme_de_Gantt_PowerBi.pdf)
+- 📘 [Guide Power BI](./Guide_de_creation_de_graphiques_PowerBi.pdf)
+- 📊 Tableau de bord – *Veille métier* *(à venir)*
+- 📈 Tableau de bord – *Profil portfolio* *(à venir)*
+- 🎥 Vidéo de formation *(à venir – lien Loom)*
+- 🧾 Documentation projet *(à venir)*
+
+## Outils utilisés
+- Power BI Desktop / Power Query / DAX  
+- Excel / PowerPoint  
+- GitHub  
+- Miro  
+
+## À propos
+Projet réalisé dans le cadre de la formation **OpenClassrooms – Data Analyst – Spécialisation Business Intelligence**, sous la supervision de **Data ESN**.
