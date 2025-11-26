@@ -1,4 +1,4 @@
-# Portfolio - Racha : Business Intelligence Analys
+# Portfolio - Racha : Business Intelligence Analyst
 Ce dépôt contient l'ensemble des livrables réalisés dans le cadre du **projet Aéroworld**, pour le client **Data ESN**.
 
 ## Objectif du projet
