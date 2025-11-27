@@ -9,10 +9,10 @@ Tout au long de la formation, j’ai eu l’occasion de travailler sur des proje
 *Analyse des ventes d’une boutique (Python & Pandas)*
 
 Objectif : nettoyer, fusionner et préparer plusieurs jeux de données (ERP, web, liaison) pour fiabiliser l’analyse du stock et des ventes.
-✔️ Traitement des valeurs manquantes
-✔️ Détection d'incohérences
-✔️ Création d’un DataFrame final exploitable
-✔️ Bonnes pratiques de structuration des données
+✔️Traitement des valeurs manquantes
+✔️Détection d'incohérences
+✔️Création d’un DataFrame final exploitable
+✔️Bonnes pratiques de structuration des données
 
 *Analyse du marché immobilier parisien (Régression, segmentation & clustering)
 
