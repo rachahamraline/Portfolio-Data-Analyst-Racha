@@ -68,4 +68,4 @@ Ce projet a été réalisé dans le cadre de la formation Data Analyst – spéc
 Il marque une étape importante dans mon parcours : ma transition vers les métiers de la data, où je peux mettre à profit à la fois mon sens du service, mon expérience terrain, ma rigueur et ma passion pour l’analyse.
 
 J’ai à cœur de continuer à progresser, à apprendre et à construire des outils qui ont un vrai impact sur la prise de décision.
-Merci de prendre le temps de parcourir ce portfolio — et n’hésitez pas à me contacter pour échanger ✨
+Merci de prendre le temps de parcourir ce portfolio et n’hésitez pas à me contacter pour échanger ✨
