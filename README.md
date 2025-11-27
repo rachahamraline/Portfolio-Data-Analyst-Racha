@@ -11,7 +11,7 @@ Ce projet a pour but de démontrer ma capacité à **structurer, piloter et valo
 - 📘 [Guide Power BI](https://github.com/rachahamraline/Portfolio-Data-Analyst-Racha/blob/f1dbb68bb273e9a3dd91376d8246bf6956dc22eb/Guide%20de%20cr%C3%A9ation%20de%20graphiques%20sur%20PowerBi.pdf)
 - 📊 Tableau de bord – *Veille métier* *(à venir)*
 - 📈 Tableau de bord – *Profil portfolio* *(à venir)*
-- 🎥 Vidéo de formation *loom.com/share/a87a7114997c46f5a6bad00e2e55486c*
+- 🎥 Vidéo de formation *[loom.com/share/a87a7114997c46f5a6bad00e2e55486c](https://www.loom.com/share/a87a7114997c46f5a6bad00e2e55486c)*
 - 🧾 Documentation projet *(à venir)*
 
 ## Outils utilisés
