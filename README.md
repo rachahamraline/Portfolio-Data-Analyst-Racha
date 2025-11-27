@@ -9,27 +9,27 @@ Tout au long de la formation, j’ai eu l’occasion de travailler sur des proje
 *Analyse des ventes d’une boutique (Python & Pandas)*
 
 Objectif : nettoyer, fusionner et préparer plusieurs jeux de données (ERP, web, liaison) pour fiabiliser l’analyse du stock et des ventes.
-✔️Traitement des valeurs manquantes
-✔️Détection d'incohérences
-✔️Création d’un DataFrame final exploitable
-✔️Bonnes pratiques de structuration des données
+- Traitement des valeurs manquantes
+- Détection d'incohérences
+- Création d’un DataFrame final exploitable
+- Bonnes pratiques de structuration des données
 
 *Analyse du marché immobilier parisien (Régression, segmentation & clustering)
 
 Objectif : prédire la valeur foncière de biens immobiliers.
-✔️ Nettoyage avancé de dataset massifs
-✔️ Feature engineering
-✔️ Corrélation de Pearson
-✔️ Modèles de régression linéaire
-✔️ Présentation orale + livrables métier
+- Nettoyage avancé de dataset massifs
+- Feature engineering
+- Corrélation de Pearson
+- Modèles de régression linéaire
+- Présentation orale + livrables métier
 
 🟦 📄 Divers projets transverses
 
-✔️ Création d’un guide complet Power BI
-✔️ Création d’une formation Power BI de 8 minutes
-✔️ Élaboration d’un tableau de bord personnel / CV dynamique
-✔️ Réalisation de supports clairs destinés à un public non technique
-✔️ Construction de mocks-up & user stories
+- Création d’un guide complet Power BI
+- Création d’une formation Power BI de 8 minutes
+- Élaboration d’un tableau de bord personnel / CV dynamique
+- Réalisation de supports clairs destinés à un public non technique
+- Construction de mocks-up & user stories
 
 *Objectif du projet Aeroworld*
 
